@@ -1,0 +1,39 @@
+.App{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.numbers{
+  background-color: grey;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+  font-size: xx-large;
+  min-height: 100px;
+  min-width: 100px;
+  margin: 0;
+}
+
+.operations{
+  background-color: orange;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+  font-size: xx-large;
+  min-height: 100px;
+  min-width: 100px;
+  margin: 0;
+}
+
+div{
+  display: flex;
+  flex-direction: row;
+}
+
+button{
+  background-color: green;
+}
